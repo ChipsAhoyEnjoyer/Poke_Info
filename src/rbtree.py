@@ -16,4 +16,4 @@ class RBTree:
         self.root = self.nil
 
     def insert(self, val):
-        pass
+        new_mon = RBNode(val)
